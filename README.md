@@ -2,7 +2,7 @@
 
 Telegram Bot used for Project Intern to moderate swear words
 
-## Getting Starting
+## Getting Started
 
 To get started, clone the repository and install all requirements:
 
